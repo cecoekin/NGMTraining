@@ -400,7 +400,7 @@ footer{
 .footerimage2 {	
 	flex: 1;
 	order: 3;
-	transform: scale(0.5);
+	transform: scale(0.7);
 }
 
 .row:before,
