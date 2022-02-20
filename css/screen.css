@@ -281,6 +281,37 @@ header p {
 	}
 }
 
+/* Baslangic:  Grup calismasi tarih saat bilgi girisi */
+
+.form-row {
+	padding: 10px 0;
+	display: flex;
+}
+.form-row label {
+	padding-right: 10px;
+}
+
+.form-row input {
+	flex:1;
+}
+
+.form-row textarea{
+	flex: 1;
+}
+
+.yollabuton {
+	padding: 10px;
+	
+	list-style: none;
+	background-color: #325595;
+	box-shadow: 5px 5px 5px rgba(0, 0, 0, .20);
+	border-radius: 5px 5px 5px 5px;
+
+}
+
+/* Son:  Grup calismasi tarih saat bilgi girisi */
+
+
 /* Grid */
 .row {
 	margin-right: -10px;
